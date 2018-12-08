@@ -1,0 +1,26 @@
+{
+  "name": "simple-gulp-start",
+  "version": "1.0.0",
+  "description": "Simple Gulp Start Template (Sass, Browsersync, Uglify, cleanCSS, Autoprefixer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WebDesign-Master.ru",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "imagemin-pngquant": "^6.0.0",
+    "gulp-cache": "^1.0.2"
+  }
+}
